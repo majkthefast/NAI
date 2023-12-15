@@ -1,7 +1,14 @@
 """
 Sieć Neuronowa do Rozpoznawania Zwierząt na Zbiorze CIFAR-10
 
-Autor: [Twoje imię]
+Autor: Mikołaj Prętki; Mikołaj Hołdakowski
+
+Instrukcje Użycia:
+Zainstaluj wymagane biblioteki, uruchamiając pip install tensorflow matplotlib.
+Uruchom skrypt.
+Referencje:
+TensorFlow: https://www.tensorflow.org/
+matplotlib: https://matplotlib.org/
 """
 
 import tensorflow as tf
